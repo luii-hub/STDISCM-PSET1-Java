@@ -8,7 +8,7 @@ The values `X` (number of threads) and `Y` (upper search limit) are **configurab
 
 ## ⚙️ **Configuration File (`config.txt`)**
 Set the number of threads (`X`) and the search range (`Y`) in the `config.txt` file:  
-X [number]
+X [number] <br>
 y [number]
 
 
