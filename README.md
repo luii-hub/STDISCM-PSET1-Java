@@ -11,4 +11,10 @@ Set the number of threads (`X`) and the search range (`Y`) in the `config.txt` f
 X [number] <br>
 y [number]
 
+---
+
+1. Clone this repository
+2. Open in a Java-Oriented IDE
+3. Build and Run Project
+4. Recommended to run and open in an external terminal
 
